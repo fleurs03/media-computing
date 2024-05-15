@@ -1,2 +1,2 @@
 # media-computing
-course project of Media Computing, Tsinghua University
+course projects of Media Computing, Tsinghua University
